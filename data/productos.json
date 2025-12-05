@@ -1,0 +1,7 @@
+[
+    {"id":"1", "nombre":"Torta chocolate","img":"img/tortacho.avif", "precio":20000 },
+    {"id":"2", "nombre":"Samoa", "img":"img/samoa.avif","precio":25000 },
+    {"id":"3", "nombre":"Torta Pauna", "img":"img/pound.avif","precio":30000 },
+    {"id":"4", "nombre":"Cinamon Roll", "img":"img/rolc.avif","precio":10000 }
+    
+]
